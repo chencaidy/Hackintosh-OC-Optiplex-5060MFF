@@ -1,0 +1,3 @@
+[submodule "ComboJack/ComboJack"]
+	path = ComboJack/ComboJack
+	url = https://github.com/hackintosh-stuff/ComboJack.git
