@@ -27,7 +27,9 @@
 ## BIOS配置（版本：1.9.1）
 * 恢复出厂设置：Load Defaults（但更加推荐使用主板CMOS跳线进行完全复位）
 * 关闭VT-d
-* 关闭CFG Lock：0xD9F 0x0
-* 设置64M预分配显存：0x263 0x2
+* 关闭CFG Lock：0x5BE 0x0
+* 设置64M预分配显存：0x8DC 0x2
 
 ## 更新日志
+###2021-3-20
+* 更新OpenCore 0.6.7
