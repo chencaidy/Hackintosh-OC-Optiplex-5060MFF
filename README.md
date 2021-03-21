@@ -36,6 +36,9 @@
 * 如需支持麦克风，请运行此目录下的安装包 `ComboJack/Package/ComboJack.pkg`
 
 ## 更新日志
+### 2021-3-22
+* 更新VerbStub 1.0.4（自编译非官方版本），去除IntelHDMI的注入
+* 解决ComboJack检测到0x8086的Codec，导致偶发耳机检测失效的问题
 ### 2021-3-21
 * 修复内置麦克风
 * 制作ComboJack安装包，用于耳机类型检测
