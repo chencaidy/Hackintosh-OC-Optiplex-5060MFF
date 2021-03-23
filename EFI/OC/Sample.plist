@@ -258,8 +258,8 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>BwCbPg==</data>
-				<key>hda-gfx</key>
-				<string>onboard-1</string>
+				<key>device-id</key>
+				<data>mz4AAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
