@@ -36,7 +36,7 @@
 * 如需支持麦克风，请运行此目录下的安装包 `ComboJack/Package/ComboJack.pkg`
 
 ## 更新日志
-### 2021-3-24
+### 2021-3-31
 * 增加AAPL,GfxYTile字段用于解决部分4K显示问题（白果Macmini8,1有此字段）
 * 去除部分Debug字段
 ### 2021-3-24
