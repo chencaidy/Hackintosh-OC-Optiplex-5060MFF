@@ -37,6 +37,13 @@
 * 如需支持麦克风，请运行此目录下的安装包 `ComboJack/Package/ComboJack.pkg`
 
 ## 更新日志
+### 2021-4-24
+* 更新OpenCore 0.6.8
+* 更新AppleALC 1.5.9
+* 更新Lilu 1.5.2
+* 更新VirtualSMC 1.2.2
+* 更新WhateverGreen 1.4.9
+* 更新NVMeFix 1.0.6
 ### 2021-3-31
 * 增加AAPL,GfxYTile字段用于解决部分4K显示问题（白果Macmini8,1有此字段）
 * 去除部分Debug字段
